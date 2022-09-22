@@ -8,5 +8,5 @@
 
 
 ## Infographic 9/22
-This is an infographic created using Canva that shows Lehigh's enrollment data for the Class of 2025. It shows that for the freshman class in Fall of 2021 Arts and Sciences had the highest enrollemnt, followed by Engineering and Applied Sciences. This data is from the [Office of Institutional Research & Strategy Anslydid](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). 
+This is an infographic created using Canva that shows Lehigh's enrollment data for the Class of 2025. It shows that for the freshman class in Fall of 2021 Arts and Sciences had the highest enrollment, followed by Engineering and Applied Sciences and Business. The data collected represents 1,519 total students in the class of 2025. This data is from the [Office of Institutional Research & Strategy Anslydid](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). 
 ![Lehigh's Class of 2025 Enrollment](https://github.com/hollysouter/hollysouter.github.io/blob/main/Lehigh's%20Class%20of%202026%20Enrollment.png?raw=true) 
