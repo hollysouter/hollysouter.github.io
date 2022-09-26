@@ -10,3 +10,8 @@
 ## Infographic 9/22
 This is an infographic created using Canva that shows Lehigh's enrollment data for the Class of 2025. It shows that for the freshman class in Fall of 2021 Arts and Sciences had the highest enrollment, followed by Engineering and Applied Sciences and Business. The data collected represents 1,519 total students in the class of 2025. This data is from the [Office of Institutional Research & Strategy Anslydid](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). 
 ![Lehigh's Class of 2025 Enrollment](https://github.com/hollysouter/hollysouter.github.io/blob/main/Lehigh's%20Class%20of%202026%20Enrollment.png?raw=true) 
+
+
+## Infographic 9/25 
+This is an infographic created using Canva that highlights the major issues with fast fashion. Fast fashion is a term that describes clothing designs that move quickly from the catwalk to stores to take advantage of trends, really any store found at the mall is considered fast fashion. This infographic shows that there are many different extreme problems with the fast fashion industry that provide harm for our society. It is impacting not only our environment but also people around the world as well. The data from the infographic was collected from the [Clean Clothes Campaign.](https://cleanclothes.org)
+![Issues With Fast Fashioin](https://github.com/hollysouter/hollysouter.github.io/blob/main/Fast%20Fashion.png?raw=true)
