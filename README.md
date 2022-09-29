@@ -15,3 +15,6 @@ This is an infographic created using Canva that shows Lehigh's enrollment data f
 ## Infographic 9/25 
 This is an infographic created using Canva that highlights the major issues with fast fashion. Fast fashion is a term that describes clothing designs that move quickly from the catwalk to stores to take advantage of trends, really any store found at the mall is considered fast fashion. This infographic shows that there are many different extreme problems with the fast fashion industry that provide harm for our society. It is impacting not only our environment but also people around the world as well. The data from the infographic was collected from the [Clean Clothes Campaign.](https://cleanclothes.org)
 ![Issues With Fast Fashioin](https://github.com/hollysouter/hollysouter.github.io/blob/main/Fast%20Fashion.png?raw=true)
+
+## In class Timeline Example 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ezct3lA-cMDtK6nHFJvNpmRrp5fn39O01L4Y2ItmFeg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
