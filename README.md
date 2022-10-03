@@ -18,3 +18,6 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## In class Timeline Example 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ezct3lA-cMDtK6nHFJvNpmRrp5fn39O01L4Y2ItmFeg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+## Computer Timeline 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TeSXjHfkp3oMQ3_zpFfezilEJfUOh957bYkVq_1S1sQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
