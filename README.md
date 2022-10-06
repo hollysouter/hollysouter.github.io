@@ -21,3 +21,6 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## Computer Timeline 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TeSXjHfkp3oMQ3_zpFfezilEJfUOh957bYkVq_1S1sQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## In Class Barchart Example 
+![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder.png)
