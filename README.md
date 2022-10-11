@@ -24,3 +24,6 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## In Class Barchart Example 
 ![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder-2.png)
+
+## Spotify Streams 2021 Barchart
+![Most Streamed Arisits on Spotify Globally 2021](https://github.com/hollysouter/hollysouter.github.io/blob/main/SpotifyStreams2021.png?raw=true) 
