@@ -27,3 +27,6 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## Spotify Streams 2021 Barchart
 ![Most Streamed Arisits on Spotify Globally 2021](https://github.com/hollysouter/hollysouter.github.io/blob/main/SpotifyStreams2021.png?raw=true) 
+
+##In Class Time0series Chart 
+![What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year._Arts_%26_Sciences_Business_Engineering__chartbuilder-2.png)
