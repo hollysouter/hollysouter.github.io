@@ -35,3 +35,7 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## In Class Scatter Plot Chart
 ![2017 Life Satisfaction and GDP per capita Dataset](https://github.com/hollysouter/hollysouter.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder-3.png)
+
+
+## Ivy League Time-series Chart
+![What are the acceptance rates of Harvard, Princeton, and Yale over the past years?]
