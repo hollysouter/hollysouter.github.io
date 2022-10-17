@@ -38,4 +38,4 @@ This is an infographic created using Canva that highlights the major issues with
 
 
 ## Ivy League Time-series Chart
-![What are the acceptance rates of Harvard, Princeton, and Yale over the past years?]
+This is a time-series chart created using ChartBuilder. The graph represents the changing acceptance rates of three of America's most prestigious universities. From this time-series chart it can be seen that Harvard always held the lowest acceptance rate throughout all of the years. It is also can be seen that between the year 2018 and 2019 Princeton had a larger decrease compared to the other universities. For all three universities there was a dramatic decrease in acceptance rate from the year 2021 to 2022. This information can all be seen in the graphic below.![What are the acceptance rates of Harvard, Princeton, and Yale over the past years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Acceptance-Rates-for-Harvard,-Yale,-and-Princeton-over-the-Years-Harvard-Yale-Princeton-chartbuilder-2.png?raw=true)
