@@ -39,3 +39,7 @@ This is an infographic created using Canva that highlights the major issues with
 
 ## Ivy League Time-series Chart
 This is a time-series chart created using ChartBuilder. The graph represents the changing acceptance rates of three of America's most prestigious universities. From this time-series chart it can be seen that Harvard always held the lowest acceptance rate throughout all of the years. It is also can be seen that between the year 2018 and 2019 Princeton had a larger decrease compared to the other universities. For all three universities there was a dramatic decrease in acceptance rate from the year 2021 to 2022. This information can all be seen in the graphic below.![What are the acceptance rates of Harvard, Princeton, and Yale over the past years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Acceptance-Rates-for-Harvard,-Yale,-and-Princeton-over-the-Years-Harvard-Yale-Princeton-chartbuilder-2.png?raw=true)
+
+
+## In Class Map Activity 
+This is an interactive map created using Google My Maps. The map displays the top 20 cycling cities around the world. From this map it can be seen that most of the popular cycling cities are in Europe, with a few outliers in Canada, Japan and Columbia. This information can be seen in the graphic below. ![2019 World's Top 20 Cycling Cities](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1f4w8s6tww9_Tu6CBXBXBA4AKdertsxo&ehbc=2E312F" width="640" height="480"></iframe>)
