@@ -45,3 +45,8 @@ This is a time-series chart created using ChartBuilder. The graph represents the
 This is an interactive map created using Google My Maps. The map displays the top 20 cycling cities around the world. From this map it can be seen that most of the popular cycling cities are in Europe, with a few outliers in Canada, Japan and Columbia. This information can be seen in the graphic below. 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1f4w8s6tww9_Tu6CBXBXBA4AKdertsxo&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+## Best Fall Foliage Map 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lznzqwsM7z8dhBEXQfdmKpiabVlCQC8&ehbc=2E312F" width="640" height="480"></iframe>
