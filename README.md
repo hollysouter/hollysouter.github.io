@@ -26,9 +26,9 @@ This is an interactive timeline created using Timeline JS that showcases the fam
 This is an interactive timeline created using Timeline JS that showcases the journey that the invention of the computer has gone through from the 1930s to more modern day updated technology. The timeline exposes that the computer has gone through drastic changes and even the uses of the computer has evolved since its original creation. The textual information used for this timeline come from [Insider.](https://www.insider.com/how-computers-evolved-history-2019-9) 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TeSXjHfkp3oMQ3_zpFfezilEJfUOh957bYkVq_1S1sQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## In Class Barchart Example 
-
-![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder-2.png)
+## In Class Barchart Example
+This is a barchart created using ChartBuilder that represents the percentages of students in each of Lehigh's undergraduate colleges in 2021. It shows that in 2021 
+![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
 ## Spotify Streams 2021 Barchart
 ![Most Streamed Arisits on Spotify Globally 2021](https://github.com/hollysouter/hollysouter.github.io/blob/main/SpotifyStreams2021.png?raw=true) 
