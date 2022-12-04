@@ -1,12 +1,12 @@
 # hollysouter.github.io
 
 
-![Profile image](https://github.com/hollysouter/hollysouter.github.io/blob/main/IMG_3769.jpg?raw=true)
+![Profile image](https://github.com/hollysouter/hollysouter.github.io/blob/main/IMG_3769.jpg?raw=true|width=100)
 
 ### Welcome to my page!
 #### My name is Holly Souter, I am a sophomore at [Lehigh University](https://www1.lehigh.edu/) studying journalism. This is my page for my data journalism class where my projects will be posted. 
 
-![Introduction Comic](https://github.com/hollysouter/hollysouter.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.30.17%20AM.png)
+![Introduction Comic](https://github.com/hollysouter/hollysouter.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.30.17%20AM.png?raw=true)
 
 
 ## Infographic 9/22
