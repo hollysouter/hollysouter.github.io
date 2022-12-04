@@ -27,12 +27,12 @@ This is an interactive timeline created using Timeline JS that showcases the jou
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TeSXjHfkp3oMQ3_zpFfezilEJfUOh957bYkVq_1S1sQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## In Class Barchart Example
-This is a barchart created using ChartBuilder that represents the percentages of students in each of Lehigh's undergraduate colleges in 2021. It shows that in 2021 
+This is a barchart created using ChartBuilder that represents the percentages of students in each of Lehigh's undergraduate colleges in 2021. It shows that in 2021 arts and sciences was the most popular college with 37% undergraduate students enrolled. The chart also conveys that there is a very small amount of students enrolled in the college of health and arts/engineering with 1.7% and 1.1% undergraduate students enrolled respectively in each. The data collected represents 5,451 total students and this data is from the [Office of Institutional Research & Strategy Anslydid](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). 
 ![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
 ## Spotify Streams 2021 Barchart
+This is a barchart created using ChartBuilder that shows that most streamed spotify artists globally in 2021. The artists were ranked based on the number of streams, or number of times their songs were played, in billions. Bad Bunny had the most amount of streams with 10.1 billion in 2021, with Taylor Swift coming in second with exactly one billion less streams. The data collected represents all of Spotify users globally and this data comes from [Spotify.](https://newsroom.spotify.com/2021-12-01/what-the-world-streamed-most-in-2021/)
 ![Most Streamed Arisits on Spotify Globally 2021](https://github.com/hollysouter/hollysouter.github.io/blob/main/SpotifyStreams2021.png?raw=true) 
-
 
 ## In Class Time-series Chart 
 ![What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year._Arts_%26_Sciences_Business_Engineering__chartbuilder-2.png)
