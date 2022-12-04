@@ -34,8 +34,9 @@ This is a barchart created using ChartBuilder that represents the percentages of
 This is a barchart created using ChartBuilder that shows that most streamed spotify artists globally in 2021. The artists were ranked based on the number of streams, or number of times their songs were played, in billions. Bad Bunny had the most amount of streams with 10.1 billion in 2021, with Taylor Swift coming in second with exactly one billion less streams. The data collected represents all of Spotify users globally and this data comes from [Spotify.](https://newsroom.spotify.com/2021-12-01/what-the-world-streamed-most-in-2021/)
 ![Most Streamed Arisits on Spotify Globally 2021](https://github.com/hollysouter/hollysouter.github.io/blob/main/SpotifyStreams2021.png?raw=true) 
 
-## In Class Time-series Chart 
-![What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year._Arts_%26_Sciences_Business_Engineering__chartbuilder-2.png)
+## In Class Time-series Chart
+This is a time-series chart that represents the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years. Using ChartBuilder this visualization shows that engineering has undergone a decline in undergraduate enrollment from 2016 to 2022, while arts and sciences has faced an increase in enrollment since 2016. Business has been very steady throughout the last seven years experiencing a slight increase and decrease throughout the years. This data collected comes from Lehigh's [institutional profile.](https://oirsa.lehigh.edu/university-profile)
+![What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?](https://github.com/hollysouter/hollysouter.github.io/blob/main/Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year._Arts_&_Sciences_Business_Engineering__chartbuilder-2.png?raw=true)
 
 
 ## In Class Scatter Plot Chart
