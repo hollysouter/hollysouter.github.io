@@ -19,12 +19,15 @@ This is an infographic created using Canva that highlights the major issues with
 ![Issues With Fast Fashioin](https://github.com/hollysouter/hollysouter.github.io/blob/main/Fast%20Fashion.png?raw=true)
 
 ## In class Timeline Example 
+This is an interactive timeline created using Timeline JS that showcases the famous Lehigh-Lafayette Rivalry. The timeline includes highlights from the rivarly that goes back to the year 1882 and continues through the recent year of 2021. The timeline explores the many important moments from this rivarly. The textual information used for this timeline comes from [Wikipedia.](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette–Lehigh))
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ezct3lA-cMDtK6nHFJvNpmRrp5fn39O01L4Y2ItmFeg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 ## Computer Timeline 
+This is an interactive timeline created using Timeline JS that showcases the journey that the invention of the computer has gone through from the 1930s to more modern day updated technology. The timeline exposes that the computer has gone through drastic changes and even the uses of the computer has evolved since its original creation. The textual information used for this timeline come from [Insider.](https://www.insider.com/how-computers-evolved-history-2019-9) 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TeSXjHfkp3oMQ3_zpFfezilEJfUOh957bYkVq_1S1sQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## In Class Barchart Example 
+
 ![Percentage of Undergraduate Enrollment at Lehigh Univeristy](https://github.com/hollysouter/hollysouter.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment__chartbuilder-2.png)
 
 ## Spotify Streams 2021 Barchart
