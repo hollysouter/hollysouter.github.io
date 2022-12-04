@@ -1,4 +1,4 @@
-# hollysouter.github.io
+# Holly Souter's J25 Projects
 
 
 ![Profile image](https://github.com/hollysouter/hollysouter.github.io/blob/main/IMG_3769.jpg?raw=true)
